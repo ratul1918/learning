@@ -1,2 +1,2 @@
 # learning
-just learing
+just learning
