@@ -1,2 +1,2 @@
 # learning
-just learning not more in this repo
+just learning not more in this repo...
